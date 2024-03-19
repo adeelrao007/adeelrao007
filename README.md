@@ -1,8 +1,8 @@
-### Hi there 👋, my name is Adeel Ahmad Rao <br>
-#### Upwork's Top Rated Laravel/VueJs Senior Developer <br>
+### Hi there 👋, my name is Adeel Ahmad Rao
+#### Upwork's Top Rated Laravel/VueJs Senior Developer
 #### 👨‍💻 Doing remote jobs from last 4 years
 #### 🕵 Open To Work
-
+<br>
 💎 Top Rated <br>
 🚀 100% client satisfaction and relationship <br>
 💪 14 years of experience with dozens of industries<br>

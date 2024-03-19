@@ -23,4 +23,4 @@ I am flexible with working hours and look forward to hear from you to discuss an
 <br>
 - 🔭 I’m currently working on a tool to speed up delivery process on my services using Laravel and VueJs<br>
 
-[Download my Resume]([https://pages.github.com/](https://docs.google.com/document/d/1R64v2x239jmPUogl37CQQ3Oq2MIcuUWy0QrQY8NG5Yw/edit?usp=sharing)https://docs.google.com/document/d/1R64v2x239jmPUogl37CQQ3Oq2MIcuUWy0QrQY8NG5Yw/edit?usp=sharing)
+[Download my Resume](https://docs.google.com/document/d/1R64v2x239jmPUogl37CQQ3Oq2MIcuUWy0QrQY8NG5Yw/edit?usp=sharing)

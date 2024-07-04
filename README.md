@@ -1,7 +1,7 @@
 ### Hi there 👋,
 #### Senior Laravel/VueJs Developer
 #### 👨‍💻 Remote Work Only
-#### 🕵 Open To Work
+#### 🕵 Busy
 <br>
 💎 Top Rated <br>
 🚀 100% client satisfaction and relationship <br>

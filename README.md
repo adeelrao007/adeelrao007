@@ -5,11 +5,11 @@
 <br>
 💎 Top Rated <br>
 🚀 100% client satisfaction and relationship <br>
-💪 14 years of experience with dozens of industries<br>
+💪 15 years of experience with dozens of industries<br>
 🎯 Overall 100+ projects delivered<br>
 👨🏻‍💼 Lead, developed and delivered 15 big projects for my companies and clients<br>
 <br><br>
-I have 14 years web development experience. I have been developing web applications using Agile methodology with both SQL and NoSQL databases. In these years I explored many of the frameworks, cms and custom PhP developments. I've strong command on both front-end and back-end technologies. I can design and develop large scale applications databases and architectures.<br><br>
+I have 15 years web development experience. I have been developing web applications using Agile methodology with both SQL and NoSQL databases. In these years I explored many of the frameworks, cms and custom PhP developments. I've strong command on both front-end and back-end technologies. I can design and develop large scale applications databases and architectures.<br><br>
 
 📙 Languages: JavaScript, PHP, HTML, CSS, SQL <br>
 📒 Frameworks: Codeigniter, Laravel, Zend, NodeJs, Nuxt.Js<br>

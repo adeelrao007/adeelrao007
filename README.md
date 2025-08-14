@@ -1,5 +1,5 @@
 ### Hi there 👋,
-#### Senior Laravel/JS Developer
+#### Certified Laravel Architect | JS Developer
 #### 👨‍💻 Remote Work Only
 #### 🕵 Open to Offers
 <br>

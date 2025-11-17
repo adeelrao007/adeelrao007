@@ -1,5 +1,5 @@
 ### Hi there 👋,
-#### Expert Laravel (Certified) | JS Architect
+#### Product Engineer & Architect
 #### 👨‍💻 Remote Work Only
 #### 🕵 Open to Offers
 <br>

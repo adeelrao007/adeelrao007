@@ -3,7 +3,6 @@
 #### 👨‍💻 Remote Work Only
 #### 🕵 Open to Offers
 <br>
-💎 Top Rated <br>
 🚀 100% client satisfaction and relationship <br>
 💪 15+ years of experience with dozens of industries<br>
 🎯 Overall 100+ projects delivered<br>
@@ -12,7 +11,7 @@
 I have over 15 years web development experience. I have been developing web applications using Agile methodology with both SQL and NoSQL databases. In these years I explored many of the frameworks, cms and custom PhP developments. I've strong command on both front-end and back-end technologies. I can design and develop large scale applications databases and architectures.<br><br>
 
 📙 Languages: JavaScript, PHP, HTML, CSS, SQL <br>
-📒 Frameworks: Codeigniter, Laravel, Zend, NodeJs, Nuxt.Js<br>
+📒 Frameworks: Codeigniter, Laravel, Zend, NodeJs, Nuxt.Js, Next.Js<br>
 🛢  Databases: MySql, MongoDB, DB Replication, DB Architect<br>
 💻 Platforms: Ubuntu, Windows <br>
 📲  Frontend: HTML5, CSS3, jQuery, VueJs, Typescript<br>

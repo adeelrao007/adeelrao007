@@ -12,9 +12,9 @@ I have over 15 years web development experience. I have been developing web appl
 
 📙 Languages: JavaScript, PHP, HTML, CSS, SQL <br>
 📒 Frameworks: Codeigniter, Laravel, Zend, NodeJs, Nuxt.Js, Next.Js<br>
-🛢  Databases: MySql, MongoDB, DB Replication, DB Architect<br>
+🛢  Databases: MySql, PostgreSQL, MongoDB, Replication, Redis, Memcache<br>
 💻 Platforms: Ubuntu, Windows <br>
-📲  Frontend: HTML5, CSS3, jQuery, VueJs, Typescript<br>
+📲 Frontend: HTML5, CSS3, jQuery, VueJs, ReactJs, Typescript<br>
 🆔 Tools: NetBeans, Notepad++, Sublime Text, VS Code, Slack, Figma, Lucid<br>
 👩🏾‍💻 Deployment: Any Linux/Ubuntu Server, CI/CD, Docker<br>
 <br>

@@ -25,4 +25,5 @@ I am flexible with working hours and look forward to hear from you to discuss an
 [Download my Resume](https://docs.google.com/document/d/1R64v2x239jmPUogl37CQQ3Oq2MIcuUWy0QrQY8NG5Yw/edit?usp=sharing)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=adeelrao007)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adeelrao007&theme=highcontrast&hide_border=true&border_radius=6&short_numbers=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+

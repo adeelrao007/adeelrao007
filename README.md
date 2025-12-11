@@ -24,10 +24,4 @@ I am flexible with working hours and look forward to hear from you to discuss an
 
 [Download my Resume](https://docs.google.com/document/d/1R64v2x239jmPUogl37CQQ3Oq2MIcuUWy0QrQY8NG5Yw/edit?usp=sharing)
 
-💻 Tech Stack:
-![Laravel]([https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=adeelrao007)]
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=adeelrao007&theme=highcontrast&hide_border=true&border_radius=6&short_numbers=true&exclude_days=Sun%2CSat)]
 

@@ -1,10 +1,10 @@
 👋 Hi, I’m Adeel Rao<br>
 <br>
-Product Engineer & Architect | Senior Full-Stack Developer<br>
+AI Powered Product Engineer & Architect | Senior Full-Stack Developer<br>
 <br>
 🚀 Experience Snapshot<br>
 15+ years of professional experience building, scaling, and maintaining web applications.<br>
-Expert in Laravel, PHP, Vue.js, React, Node.js, and modern backend systems.<br>
+Expert in AI Integrations, Laravel, PHP, Vue.js, React, Node.js, and modern backend systems.<br>
 Specialized in SPA, PWA, REST APIs, system architecture, and performance optimization.<br>
 Strong advocate of clean code, scalability, security, and maintainability.<br>
 Experienced in taking products from idea → MVP → production → scale.<br>
@@ -30,7 +30,7 @@ eCommerce & SaaS Products<br>
 Medical & Healthcare Systems<br>
 Auto Workshops & Real Estate Platforms<br>
 <br>
-🔧 Tech Stack<br>
+🔧 Tech Stack Powered with AI Integrations<br>
 Backend: PHP, Laravel, Node.js<br>
 Frontend: Vue.js, React, Nuxt, SPA/PWA<br>
 Databases: MySQL, PostgreSQL, Redis<br>

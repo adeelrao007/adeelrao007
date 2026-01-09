@@ -1,7 +1,8 @@
 👋 Hi, I’m Adeel Rao<br>
 <br>
-AI Powered Product Engineer & Architect | Senior Full-Stack Developer<br>
-Github Copilot and ChatGPT are used on daily basis for quick development. Looks like I would only be a reviewer anytime soon for generated AI code 😉 <br >
+AI Powered Product Engineer & Architect | Senior Full-Stack Developer<br><br ><br >
+Github Copilot and ChatGPT are used on daily basis for quick development. <br >
+Looks like I would be only a reviewer anytime soon for generated AI code 😉 <br >
 <br>
 🚀 Experience Snapshot<br>
 15+ years of professional experience building, scaling, and maintaining web applications.<br>

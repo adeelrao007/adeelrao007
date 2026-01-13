@@ -43,7 +43,14 @@ DevOps: Git, CI/CD, Linux, AWS<br>
 📫 Let’s Connect<br>
 🌐 Portfolio: https://adeelahmadrao.info<br>
 🐙 GitHub: https://github.com/adeelrao007<br>
-<br>
+<br><br>
+❓Why Me...<br>
+I’ve been doing frontend and full-stack work for about 15 years, mainly on SaaS products and admin dashboards.<br>
+What usually sets me apart is that I don’t just write features — I help teams avoid rework.<br>
+I’m used to joining existing codebases, understanding the architecture quickly, and shipping production-ready code without disrupting the system.<br>
+I care a lot about things that matter long-term: maintainability, performance, permissions, and clean boundaries between features.<br>
+Teams typically use me when they need someone who can start immediately, work independently, and take ownership without a lot of back-and-forth.<br>
+I’m looking for a long-term collaboration where I can contribute consistently and help stabilize and improve the frontend over time.<br>
 <br>
 I am flexible with working hours and look forward to hear from you to discuss any upcoming projects and requirements.<br>
 <br>

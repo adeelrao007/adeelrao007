@@ -33,8 +33,8 @@ Medical & Healthcare Systems<br>
 Auto Workshops & Real Estate Platforms<br>
 <br>
 🔧 Tech Stack Powered with AI Integrations<br>
-Backend: Python, PHP, Laravel, Node.js<br>
-Frontend: Vue.js, React, Nuxt, SPA/PWA<br>
+Backend: Python, PHP, Laravel, Node.js (Nest)<br>
+Frontend: Vue.js, React, Nuxt, Next, SPA/PWA<br>
 Databases: MySQL, PostgreSQL, Redis<br>
 Architecture: REST APIs, Queues, Caching, Scalable Systems<br>
 CMS: WordPress, Drupal<br>
